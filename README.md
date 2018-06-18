@@ -1,6 +1,6 @@
 Welcome!
 
-DevMatch is a mock soial media site built on the rails framework.
+DevMatch is a mock social media site built on the rails framework.
 
 Functionality includes account creation ("paid" and "free"), profile editing and
 avatar upload, credit card processing through Stripe.
